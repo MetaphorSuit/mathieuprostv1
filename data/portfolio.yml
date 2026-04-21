@@ -1,0 +1,47 @@
+portfolioitems:
+  # Catégorie portfolio
+  - title: Projets en cours
+    description: "Chaque projet est un terrain d'expérimentation et d'apprentissage business, graphique, dev, tech... Il me permet de développer mes compétences et d'explorer de nouvelles idées."
+    portfolioitem:
+      - name: Alternative Marketing Mentor
+        image: '/images/portfolio/AMM.jpg'
+        link: https://learn.mathieuprost.fr
+        linktext: 'Visiter le site'
+        description: "Une plateforme LMS conçue pour mes étudiants et les entreprises que j'accompagne, offrant des outils de gestion de cours, de suivi des étudiants et d'analyse des performances."
+        tags:
+          - LMS
+          - learning
+        status: 'Terminé'
+        start: 'fev 2026'
+        end: 'avr 2026'
+      - name: Mat The Printer
+        image: '/images/portfolio/AI.jpg'
+        link: https://mat-the-printer.fr/
+        linktext: 'Visiter le site'
+        description: "Projet graphique autour de l'impression de gravures médiévales"
+        tags:
+          - Art
+      - name: Portfolio d'artiste 
+        image: '/images/portfolio/dread.jpg'
+        link: https://mattheprinter.github.io/
+        linktext: 'Visiter le site'
+        description: "Un portfolio en ligne pour présenter mes œuvres artistiques et mes projets créatifs"
+        tags:
+          - Art
+  # Catégorie portfolio
+  - title: Recherche
+    description: 'Tous mes projets de recherche'
+    portfolioitem:
+      - name: Étude UX
+        image: '/images/portfolio/code.jpg'
+        description: "Recherche UX dans les applications web modernes."
+        tags:
+          - UX
+          - Recherche
+      - name: Article technique
+        image: '/images/portfolio/code.jpg'
+        link: https://example.com
+        description: 'Publication sur les meilleures pratiques en développement web.'
+        tags:
+          - Publication
+          - Web

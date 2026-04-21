@@ -1,0 +1,13 @@
+[fr]
+title = "Site Web de Mat"
+weight = 1
+LanguageName = "FR"
+contentDir = "content/french"
+
+[en]
+title = "Mat's Website"
+weight = 2
+LanguageName = "EN"
+contentDir = "content/english"
+[ar.params]
+

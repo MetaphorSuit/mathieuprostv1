@@ -1,0 +1,41 @@
+  [[main]]
+  name = "Accueil"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Portfolio"
+  weight = 200
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+  [[main]]
+  name = "Articles"
+  weight = 300
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "Manifesto"
+  weight = 400
+  identifier = "about"
+  url = "/manifesto/"
+
+ [[main]]
+  name = "Contact"
+  weight = 600
+  identifier = "contact"
+  url = "/contact/"
+
+  [[footer]]
+  name = "imprint"
+  weight = 2
+  identifier = "imprint"
+  url = "/imprint/"
+
+  [[footer]]
+  name = "Contact"
+  weight = 1
+  identifier = "contact"
+  url = "/contact/"
