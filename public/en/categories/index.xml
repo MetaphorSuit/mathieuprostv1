@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Mat&#39;s Website</title>
+    <link>https://mathieuprost.fr/en/categories/</link>
+    <description>Recent content in Categories on Mat&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mathieuprost.fr/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syntax</title>
+      <link>https://mathieuprost.fr/en/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/en/categories/syntax/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Themes</title>
+      <link>https://mathieuprost.fr/en/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/en/categories/themes/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Web de Mat</title>
+    <link>https://mathieuprost.fr/</link>
+    <description>Recent content on Site Web de Mat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mathieuprost.fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/french/manifesto/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/manifesto/</guid>
+      
+        <description>Découvrez qui je suis</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/manifesto/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/manifesto/</guid>
+      
+        <description>Découvrez qui je suis</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mathieuprost.fr/contact/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/contact/</guid>
+      
+        <description>Page de contact</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mathieuprost.fr/french/contact/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/contact/</guid>
+      
+        <description>Page de contact</description>
+      
+    </item>
+    
+    <item>
+      <title>Mentions légales</title>
+      <link>https://mathieuprost.fr/french/imprint/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/imprint/</guid>
+      
+        <description>&lt;h1 id=&#34;mentions-légales&#34;&gt;Mentions légales&lt;/h1&gt;
+&lt;h2 id=&#34;éditeur-du-site&#34;&gt;Éditeur du site&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Mathieu P.&lt;/strong&gt;
+Site web personnel&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mentions légales</title>
+      <link>https://mathieuprost.fr/imprint/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/imprint/</guid>
+      
+        <description>&lt;h1 id=&#34;mentions-légales&#34;&gt;Mentions légales&lt;/h1&gt;
+&lt;h2 id=&#34;éditeur-du-site&#34;&gt;Éditeur du site&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Mathieu P.&lt;/strong&gt;
+Site web personnel&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/french/post/-strat%C3%A9gie---cpf-ia-vs-march%C3%A9-r%C3%A9el-exed-2026/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/post/-strat%C3%A9gie---cpf-ia-vs-march%C3%A9-r%C3%A9el-exed-2026/</guid>
+      
+        <description>&lt;h1 id=&#34;-cpf-ia--marché-ia--segmentation--stratégie-dacquisition&#34;&gt;📊 CPF IA ≠ Marché IA — Segmentation &amp;amp; Stratégie d&amp;rsquo;acquisition&lt;/h1&gt;
+&lt;h2 id=&#34;vue-360--où-est-vraiment-largent-ia-en-formation-&#34;&gt;Vue 360° : Où est vraiment l&amp;rsquo;argent IA en formation ?&lt;/h2&gt;
+&lt;h3 id=&#34;1-taille-des-segments-2025---estimation-france&#34;&gt;1. Taille des segments (2025 - Estimation France)&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Segment&lt;/th&gt;
+          &lt;th&gt;Chiffre d&amp;rsquo;affaires estimé&lt;/th&gt;
+          &lt;th&gt;Volume&lt;/th&gt;
+          &lt;th&gt;Client type&lt;/th&gt;
+          &lt;th&gt;Channel&lt;/th&gt;
+          &lt;th&gt;Pertinence ExEd&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CPF IA&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;28,1M€&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;10 502 dossiers&lt;/td&gt;
+          &lt;td&gt;Individu (90%)&lt;/td&gt;
+          &lt;td&gt;Auto-inscription&lt;/td&gt;
+          &lt;td&gt;⚠️ Bruit&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Plan de dev. compétences&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;12–18M€&lt;/strong&gt; estimé&lt;/td&gt;
+          &lt;td&gt;2 000–3 000 dossiers&lt;/td&gt;
+          &lt;td&gt;Entreprises &amp;gt;250 sal.&lt;/td&gt;
+          &lt;td&gt;RH/CHRO/DG&lt;/td&gt;
+          &lt;td&gt;✅ &lt;strong&gt;CIBLE&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;OPCO&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;5–10M€&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;500–1 000 dossiers&lt;/td&gt;
+          &lt;td&gt;PME/ETI&lt;/td&gt;
+          &lt;td&gt;Partenaires&lt;/td&gt;
+          &lt;td&gt;✅ &lt;strong&gt;CIBLE&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Executive Education&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;2–5M€&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;100–300 dossiers&lt;/td&gt;
+          &lt;td&gt;Cadres/Dirigeants&lt;/td&gt;
+          &lt;td&gt;Consulting/Cabinet&lt;/td&gt;
+          &lt;td&gt;✅ &lt;strong&gt;PREMIUM&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Formation intra-entreprise&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;8–15M€&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Custom&lt;/td&gt;
+          &lt;td&gt;Entreprises&lt;/td&gt;
+          &lt;td&gt;Direct/Consulting&lt;/td&gt;
+          &lt;td&gt;✅ &lt;strong&gt;CIBLE&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Certifications courtes online&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;15–25M€&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;50 000+ participants&lt;/td&gt;
+          &lt;td&gt;Individus + corps&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+          &lt;td&gt;🔴 Compétition&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Total marché IA formation France 2025&lt;/strong&gt; : 70–100M€ estimés (vs 28,1M€ CPF seul)&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/french/post/-readme---index--documentation-%C3%A9tude-cpf-ia/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/post/-readme---index--documentation-%C3%A9tude-cpf-ia/</guid>
+      
+        <description>&lt;h1 id=&#34;-index--étude-cpf-ia-exed--ressources-complètes&#34;&gt;📑 Index — Étude CPF IA ExEd — Ressources complètes&lt;/h1&gt;
+&lt;h2 id=&#34;fichiers-générés-30-mars-2026&#34;&gt;Fichiers générés (30 mars 2026)&lt;/h2&gt;
+&lt;h3 id=&#34;-documents-principaux&#34;&gt;📊 Documents principaux&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;Étude de marché ExEd - Données formations IA &amp;amp; Tech (CPF).md&lt;/code&gt;&lt;/strong&gt; ← Principal&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/post/-strat%C3%A9gie---cpf-ia-vs-march%C3%A9-r%C3%A9el-exed-2026/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/post/-strat%C3%A9gie---cpf-ia-vs-march%C3%A9-r%C3%A9el-exed-2026/</guid>
+      
+        <description>&lt;h1 id=&#34;-cpf-ia--marché-ia--segmentation--stratégie-dacquisition&#34;&gt;📊 CPF IA ≠ Marché IA — Segmentation &amp;amp; Stratégie d&amp;rsquo;acquisition&lt;/h1&gt;
+&lt;h2 id=&#34;vue-360--où-est-vraiment-largent-ia-en-formation-&#34;&gt;Vue 360° : Où est vraiment l&amp;rsquo;argent IA en formation ?&lt;/h2&gt;
+&lt;h3 id=&#34;1-taille-des-segments-2025---estimation-france&#34;&gt;1. Taille des segments (2025 - Estimation France)&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Segment&lt;/th&gt;
+          &lt;th&gt;Chiffre d&amp;rsquo;affaires estimé&lt;/th&gt;
+          &lt;th&gt;Volume&lt;/th&gt;
+          &lt;th&gt;Client type&lt;/th&gt;
+          &lt;th&gt;Channel&lt;/th&gt;
+          &lt;th&gt;Pertinence ExEd&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CPF IA&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;28,1M€&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;10 502 dossiers&lt;/td&gt;
+          &lt;td&gt;Individu (90%)&lt;/td&gt;
+          &lt;td&gt;Auto-inscription&lt;/td&gt;
+          &lt;td&gt;⚠️ Bruit&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Plan de dev. compétences&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;12–18M€&lt;/strong&gt; estimé&lt;/td&gt;
+          &lt;td&gt;2 000–3 000 dossiers&lt;/td&gt;
+          &lt;td&gt;Entreprises &amp;gt;250 sal.&lt;/td&gt;
+          &lt;td&gt;RH/CHRO/DG&lt;/td&gt;
+          &lt;td&gt;✅ &lt;strong&gt;CIBLE&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;OPCO&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;5–10M€&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;500–1 000 dossiers&lt;/td&gt;
+          &lt;td&gt;PME/ETI&lt;/td&gt;
+          &lt;td&gt;Partenaires&lt;/td&gt;
+          &lt;td&gt;✅ &lt;strong&gt;CIBLE&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Executive Education&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;2–5M€&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;100–300 dossiers&lt;/td&gt;
+          &lt;td&gt;Cadres/Dirigeants&lt;/td&gt;
+          &lt;td&gt;Consulting/Cabinet&lt;/td&gt;
+          &lt;td&gt;✅ &lt;strong&gt;PREMIUM&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Formation intra-entreprise&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;8–15M€&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Custom&lt;/td&gt;
+          &lt;td&gt;Entreprises&lt;/td&gt;
+          &lt;td&gt;Direct/Consulting&lt;/td&gt;
+          &lt;td&gt;✅ &lt;strong&gt;CIBLE&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Certifications courtes online&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;15–25M€&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;50 000+ participants&lt;/td&gt;
+          &lt;td&gt;Individus + corps&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+          &lt;td&gt;🔴 Compétition&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Total marché IA formation France 2025&lt;/strong&gt; : 70–100M€ estimés (vs 28,1M€ CPF seul)&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/post/-readme---index--documentation-%C3%A9tude-cpf-ia/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/post/-readme---index--documentation-%C3%A9tude-cpf-ia/</guid>
+      
+        <description>&lt;h1 id=&#34;-index--étude-cpf-ia-exed--ressources-complètes&#34;&gt;📑 Index — Étude CPF IA ExEd — Ressources complètes&lt;/h1&gt;
+&lt;h2 id=&#34;fichiers-générés-30-mars-2026&#34;&gt;Fichiers générés (30 mars 2026)&lt;/h2&gt;
+&lt;h3 id=&#34;-documents-principaux&#34;&gt;📊 Documents principaux&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;Étude de marché ExEd - Données formations IA &amp;amp; Tech (CPF).md&lt;/code&gt;&lt;/strong&gt; ← Principal&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Guide to Mermaid Diagrams in Hugo</title>
+      <link>https://mathieuprost.fr/english/post/mermaid-test/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/mermaid-test/</guid>
+      
+        <description>Guide to Mermaid Diagrams in Hugo</description>
+      
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://mathieuprost.fr/english/post/math-typesetting/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/math-typesetting/</guid>
+      
+        <description>A brief guide to setup and use KaTeX</description>
+      
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://mathieuprost.fr/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/awards/</guid>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://mathieuprost.fr/english/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/awards/</guid>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://mathieuprost.fr/french/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/awards/</guid>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>https://mathieuprost.fr/certifications/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/certifications/</guid>
+      
+        <description>Hugo Certifications</description>
+      
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>https://mathieuprost.fr/english/certifications/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/certifications/</guid>
+      
+        <description>Hugo Certifications</description>
+      
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>https://mathieuprost.fr/french/certifications/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/certifications/</guid>
+      
+        <description>Hugo Certifications</description>
+      
+    </item>
+    
+    <item>
+      <title>Données APEC</title>
+      <link>https://mathieuprost.fr/french/post/-donn%C3%A9es-apec--rncp---march%C3%A9-formation-ia-cadres-2026/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/post/-donn%C3%A9es-apec--rncp---march%C3%A9-formation-ia-cadres-2026/</guid>
+      
+        <description>&lt;h1 id=&#34;-données-apec--rncp--marché-formation-ia-pour-cadres-2026&#34;&gt;📊 Données APEC &amp;amp; RNCP — Marché formation IA pour cadres (2026)&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Sources primaires :&lt;/strong&gt; APEC, &lt;em&gt;L&amp;rsquo;intelligence artificielle en commercial-marketing&lt;/em&gt; (mars 2026) · APEC, &lt;em&gt;Les métiers cadres porteurs&lt;/em&gt; (2026) · France Compétences, export RNCP quotidien du 29/03/2026 (via data.gouv.fr)
+&lt;strong&gt;Note DARES :&lt;/strong&gt; La DARES ne publie pas ses données sur la formation professionnelle continue sur data.gouv.fr (35 datasets disponibles, tous axés France Travail / emploi vacants). Les statistiques DARES formation restent accessibles uniquement en PDF sur dares.travail-emploi.gouv.fr.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Données APEC</title>
+      <link>https://mathieuprost.fr/post/-donn%C3%A9es-apec--rncp---march%C3%A9-formation-ia-cadres-2026/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/post/-donn%C3%A9es-apec--rncp---march%C3%A9-formation-ia-cadres-2026/</guid>
+      
+        <description>&lt;h1 id=&#34;-données-apec--rncp--marché-formation-ia-pour-cadres-2026&#34;&gt;📊 Données APEC &amp;amp; RNCP — Marché formation IA pour cadres (2026)&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Sources primaires :&lt;/strong&gt; APEC, &lt;em&gt;L&amp;rsquo;intelligence artificielle en commercial-marketing&lt;/em&gt; (mars 2026) · APEC, &lt;em&gt;Les métiers cadres porteurs&lt;/em&gt; (2026) · France Compétences, export RNCP quotidien du 29/03/2026 (via data.gouv.fr)
+&lt;strong&gt;Note DARES :&lt;/strong&gt; La DARES ne publie pas ses données sur la formation professionnelle continue sur data.gouv.fr (35 datasets disponibles, tous axés France Travail / emploi vacants). Les statistiques DARES formation restent accessibles uniquement en PDF sur dares.travail-emploi.gouv.fr.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>The Notice Shortcode</title>
+      <link>https://mathieuprost.fr/english/post/notice-shortcode/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/notice-shortcode/</guid>
+      
+        <description>&lt;p&gt;The notice shortcode supports three different types of disclaimers. These are as following:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Series Part 2</title>
+      <link>https://mathieuprost.fr/english/post/series-part-2/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/series-part-2/</guid>
+      
+        <description>A brief guide to how to setup series part 2</description>
+      
+    </item>
+    
+    <item>
+      <title>Series Part 1</title>
+      <link>https://mathieuprost.fr/english/post/series-part-1/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/series-part-1/</guid>
+      
+        <description>A brief guide to how to setup series part 1</description>
+      
+    </item>
+    
+    <item>
+      <title>Redirect</title>
+      <link>https://mathieuprost.fr/english/post/redirect/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/redirect/</guid>
+      
+        <description>Usage of redirectUrl</description>
+      
+    </item>
+    
+    <item>
+      <title>The Figure Shortcode</title>
+      <link>https://mathieuprost.fr/english/post/figure-shortcode/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/figure-shortcode/</guid>
+      
+        <description>&lt;p&gt;Hugo has &lt;code&gt;figure&lt;/code&gt; shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/english/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/french/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://mathieuprost.fr/english/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/markdown-syntax/</guid>
+      
+        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://mathieuprost.fr/english/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/rich-content/</guid>
+      
+        <description>A brief description of Hugo Shortcodes</description>
+      
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://mathieuprost.fr/english/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/placeholder-text/</guid>
+      
+        <description>Lorem Ipsum Dolor Si Amet</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mathieuprost.fr/english/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://mathieuprost.fr/english/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/emoji-support/</guid>
+      
+        <description>Guide to emoji usage in Hugo</description>
+      
+    </item>
+    
+    <item>
+      <title>Guide to Thumbnails in Hugo</title>
+      <link>https://mathieuprost.fr/english/post/image-test/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/post/image-test/</guid>
+      
+        <description>Guide to Thumbnails in Hugo</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mathieuprost.fr/english/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/about/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/english/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/english/imprint/</guid>
+      
+        <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
+&lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
+&lt;p&gt;Jane Doe&lt;br&gt;
+Anatole Street 10&lt;br&gt;
+2016 GoHugo&lt;br&gt;
+Germany&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

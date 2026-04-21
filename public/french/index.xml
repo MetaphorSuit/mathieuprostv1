@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Web de Mat</title>
+    <link>https://mathieuprost.fr/french/</link>
+    <description>Recent content on Site Web de Mat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mathieuprost.fr/french/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/french/manifesto/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/manifesto/</guid>
+      
+        <description>Découvrez qui je suis</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mathieuprost.fr/french/contact/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/contact/</guid>
+      
+        <description>Page de contact</description>
+      
+    </item>
+    
+    <item>
+      <title>Mentions légales</title>
+      <link>https://mathieuprost.fr/french/imprint/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/imprint/</guid>
+      
+        <description>&lt;h1 id=&#34;mentions-légales&#34;&gt;Mentions légales&lt;/h1&gt;
+&lt;h2 id=&#34;éditeur-du-site&#34;&gt;Éditeur du site&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Mathieu P.&lt;/strong&gt;
+Site web personnel&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://mathieuprost.fr/french/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/awards/</guid>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>https://mathieuprost.fr/french/certifications/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/certifications/</guid>
+      
+        <description>Hugo Certifications</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mathieuprost.fr/french/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/french/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
