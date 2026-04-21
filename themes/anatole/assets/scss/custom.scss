@@ -1,0 +1,113 @@
+// Define your own custom SCSS logic
+
+// Apply Space Grotesk font to titles
+h1, h2, h3, h4, h5, h6,
+.post__content h1,
+.post__content h2,
+.post__content h3,
+.post__content h4,
+.post__content h5,
+.post__content h6,
+.sidebar__introduction-title,
+.archive__heading,
+.portfolio__title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+// Apply Inter font to body text
+body,
+p,
+.post__content,
+.post__content p,
+.post__content li,
+.post__content a,
+.sidebar__introduction-description,
+.archive__list-item,
+.portfolio__description {
+  font-family: 'Inter', sans-serif;
+}
+
+// Swap accent colors for links and highlights
+// Light theme: use warm brown accent
+.theme--light a {
+  color: #6B4423 !important;
+}
+
+.theme--light a:hover {
+  color: #8B5A2B !important;
+}
+
+// Dark theme: use light beige accent
+.theme--dark a {
+  color: #E8D5C4 !important;
+}
+
+.theme--dark a:hover {
+  color: #F0E5D8 !important;
+}
+
+// Code highlighting - light theme with warm brown
+.theme--light .post__content .chroma {
+  background-color: #F5EDE6 !important;
+  border-bottom: 1px solid #6B4423 !important;
+}
+
+.theme--light .post__content pre {
+  background-color: #F5EDE6 !important;
+}
+
+// Code highlighting - dark theme with beige
+.theme--dark .post__content .chroma {
+  background-color: #2A2520 !important;
+  border-bottom: 1px solid #E8D5C4 !important;
+}
+
+.theme--dark .post__content pre {
+  background-color: #2A2520 !important;
+}
+
+// Portfolio thumbnails - add warm tint with specific colors
+.theme--light .portfolio__image::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #F5F0EB;
+  mix-blend-mode: multiply;
+  opacity: 0.12;
+  pointer-events: none;
+}
+
+.theme--dark .portfolio__image::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #3A3228;
+  mix-blend-mode: overlay;
+  opacity: 0.18;
+  pointer-events: none;
+}
+
+.theme--light .portfolio__image {
+  position: relative;
+}
+
+.theme--dark .portfolio__image {
+  position: relative;
+}
+
+// Contact form fields - warm themed backgrounds
+.theme--light .form-style ul li .field-style {
+  background-color: #FEFEFC !important;
+}
+
+.theme--dark .form-style ul li .field-style {
+  background-color: #2A2520 !important;
+}
