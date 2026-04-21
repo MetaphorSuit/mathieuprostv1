@@ -1,3 +1,6 @@
 .hugo_build.lock
 resources/_gen/
 Documents.pub
+public/
+resources/_gen/
+.hugo_build.lock
