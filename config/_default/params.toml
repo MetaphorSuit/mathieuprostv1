@@ -13,8 +13,8 @@ customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
-# Form Spree Contact Form
-#contactFormAction = "https://formspree.io/f/your-form-hash-here"
+#n8n webhook (originally contact form spree)
+contactFormAction = "https://flow.mathieuprost.fr/webhook/a7459b35-fc73-4b58-ac0f-27b29964cadc"
 #contactFormReCaptcha = "your-site-key-here"
 # Google Fonts
 googleFonts = ["Space+Grotesk:wght@400;700", "Inter:wght@300;400;500;600;700"]

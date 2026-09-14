@@ -32,7 +32,7 @@ portfolioitems:
   - title: Recherche
     description: 'Tous mes projets de recherche'
     portfolioitem:
-      - name: Étude UX
+      - name: Étude sur les traités d'armes du XVè siècle
         image: '/images/portfolio/code.jpg'
         description: "Recherche UX dans les applications web modernes."
         tags:

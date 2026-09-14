@@ -6,14 +6,12 @@ description: Page de contact
 contact: true
 ---
 
-# Contactez-moi
-
-Vous avez une question, une proposition ou simplement envie de dire bonjour ? N'hésitez pas à me contacter !
+# Contacte-moi
+Tu as une question, une proposition ou simplement envie de dire bonjour ? N'hésite pas à me contacter !
 
 ## Moyens de contact
 
-- 📧 Email : [votre.email@example.com](mailto:votre.email@example.com)
-- 💼 LinkedIn : [Votre profil](https://linkedin.com/in/votre-profil)
-- 🐙 GitHub : [Votre profil](https://github.com/votre-profil)
+- 💼 LinkedIn : [Votre profil](https://linkedin.com/in/mathieu-prost)
+- 🐙 GitHub : [Votre profil](https://github.com/mathieuprost)
 
 Je réponds généralement dans les 24-48 heures.
