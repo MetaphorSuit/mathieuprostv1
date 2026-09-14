@@ -82,6 +82,12 @@ p,
   pointer-events: none;
 }
 
+.sidebar__introduction-profileimage {
+  width: auto !important;
+  height: 300px !important;
+  border-radius: 0 !important;
+}
+
 .theme--dark .portfolio__image::after {
   content: '';
   position: absolute;

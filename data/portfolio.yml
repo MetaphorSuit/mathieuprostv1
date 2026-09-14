@@ -15,14 +15,14 @@ portfolioitems:
         start: 'fev 2026'
         end: 'avr 2026'
       - name: Mat The Printer
-        image: '/images/portfolio/AI.jpg'
+        image: '/images/portfolio/mat-the-printer.jpg'
         link: https://mat-the-printer.fr/
         linktext: 'Visiter le site'
         description: "Projet graphique autour de l'impression de gravures médiévales"
         tags:
           - Art
       - name: Portfolio d'artiste 
-        image: '/images/portfolio/dread.jpg'
+        image: '/images/portfolio/portfolio.jpg'
         link: https://mattheprinter.github.io/
         linktext: 'Visiter le site'
         description: "Un portfolio en ligne pour présenter mes œuvres artistiques et mes projets créatifs"

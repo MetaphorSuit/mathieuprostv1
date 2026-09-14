@@ -3,7 +3,7 @@ title = "Chaotique professionnel"
 author = "Mathieu Prost"
 #copyright = "2020-2021"
 description = "Appelez moi Mat, et commandez moi un café"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/portrait.svg"
 keywords = "Mathieu Prost, Marketing Dijon, Freelance Marketing"
 favicon = "favicons/"
 # example ["css/custom.css"]
