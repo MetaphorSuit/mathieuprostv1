@@ -5,13 +5,15 @@
   position: relative;
   padding-left: 0px;
   padding-right: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 10px;
   padding-top: 48px;
-
 
 
   @include conf.desktop {
     padding: 48px;
+    display: inline-flex;
+   justify-content : center;
+   max-width: 100%;
   }
 
   &::before {
@@ -43,28 +45,32 @@
   }
 
   &__image {
-    max-width: 200px;
-    min-width: 200px;
-    box-shadow: color.t('shadow');
+    max-width : 180%;
+    min-width: 100%;
     overflow: hidden;
-    transition: box-shadow 0.3s ease;
     object-fit: center;
     border-bottom: 0px;
     display: block;
     position: relative;
+    
+ &__image:hover{
+    box-shadow: color.t('shadow');
+    transition: box-shadow 0.3s ease;
+ } 
 
     &-wrapper {
       display: block;
       background-color: #fff;
       position: relative;
       overflow: hidden;
-
+      align-content: center;
+    /*  padding: 10%;
+        padding: 24px 24px 0px 24px;*/
       &--right,
       &--left {
-        margin-right: auto;
-        margin-left: auto;
+        margin-right: 0;
+        margin-left: 0;
         width: calc(100% - 64px);
-        padding: 32px 32px 0px 32px;
         max-width: inherit;
 
         @include color.themed() {
@@ -72,7 +78,7 @@
         }
 
         @include conf.desktop {
-          width: 60%;
+          width: 80%;
           object-fit: contain;
           max-width: none;
           border-radius: 0.5em;
@@ -83,13 +89,13 @@
       &--left {
         @include conf.desktop {
           margin-right: auto;
-          margin-left: 0;
+         margin-left: auto;
         }
       }
 
       &--right {
         @include conf.desktop {
-          margin-right: 0;
+          margin-right: auto;
           margin-left: auto;
         }
       }
@@ -126,8 +132,8 @@
           background: color.t('primary-lighter');
         }
         border-bottom: 0px;
-        width: 80%;
-        margin-top: -100px; /* Gère le padding entre les cases du portfolio aussi*/
+          width: 60%;
+        margin-top: 10px; /* Gère le padding entre les cases du portfolio aussi*/
       }
     }
 

@@ -4,7 +4,7 @@ portfolioitems:
     description: "Chaque projet est un terrain d'expérimentation et d'apprentissage business, graphique, dev, tech... Il me permet de développer mes compétences et d'explorer de nouvelles idées."
     portfolioitem:
       - name: Alternative Marketing Mentor
-        image: '/images/portfolio/AMM.jpg'
+        image: '/images/portfolio/AMM.svg'
         link: https://learn.mathieuprost.fr
         linktext: 'Visiter le site'
         description: "Une plateforme LMS conçue pour mes étudiants et les entreprises que j'accompagne, offrant des outils de gestion de cours, de suivi des étudiants et d'analyse des performances."
@@ -15,14 +15,14 @@ portfolioitems:
         start: 'fev 2026'
         end: 'avr 2026'
       - name: Mat The Printer
-        image: '/images/portfolio/mat-the-printer.jpg'
+        image: '/images/portfolio/mtpv1.svg'
         link: https://mat-the-printer.fr/
         linktext: 'Visiter le site'
         description: "Projet graphique autour de l'impression de gravures médiévales"
         tags:
           - Art
       - name: Portfolio d'artiste 
-        image: '/images/portfolio/portfolio.jpg'
+        image: '/images/portfolio/portfolio.svg'
         link: https://mattheprinter.github.io/
         linktext: 'Visiter le site'
         description: "Un portfolio en ligne pour présenter mes œuvres artistiques et mes projets créatifs"
