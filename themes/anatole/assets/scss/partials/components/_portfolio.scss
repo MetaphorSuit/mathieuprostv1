@@ -30,7 +30,7 @@
 
     @include conf.desktop {
       @include color.themed() {
-        border: color.t('border');
+/*        border: color.t('border');*/
       }
     }
   }
@@ -45,8 +45,8 @@
   }
 
   &__image {
-    max-width : 180%;
-    min-width: 100%;
+    max-width : 100%;
+    min-width: 60%;
     overflow: hidden;
     object-fit: center;
     border-bottom: 0px;
@@ -78,10 +78,10 @@
         }
 
         @include conf.desktop {
-          width: 80%;
+          width: 160%;
           object-fit: contain;
           max-width: none;
-          border-radius: 0.5em;
+/*          border-radius: 0.2em;*/
           padding: 0;
         }
       }
@@ -107,7 +107,7 @@
     position: relative;
 
     @include color.themed() {
-      background-color: color.t('accent');
+/*      background-color: color.t('accent');*/
     }
 
     @include conf.desktop {
@@ -115,21 +115,22 @@
       border-radius: 0.5em;
 
       @include color.themed() {
-        box-shadow: color.t('shadow');
+/*        box-shadow: color.t('shadow');*/
       }
     }
 
     &--left,
     &--right {
-      margin-top: -24px;
+     /* margin-top: -24px;*/
 
       @include color.themed() {
-        border-bottom: color.t('border');
+/*        border-bottom: color.t('border');*/
       }
 
       @include conf.desktop {
+        
         @include color.themed() {
-          background: color.t('primary-lighter');
+          background: color.t('light');
         }
         border-bottom: 0px;
           width: 60%;

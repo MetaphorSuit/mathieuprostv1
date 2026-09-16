@@ -21,6 +21,13 @@ portfolioitems:
         description: "Projet graphique autour de l'impression de gravures médiévales"
         tags:
           - Art
+      - name: Brasserie Autre Monde
+        image: '/images/portfolio/gamme.svg'
+        link: https://brasserieautremonde.fr/
+        linktext: 'Visiter le site'
+        description: "Projet graphique print de création d'une gamme de bières artisanales"
+        tags:
+          - Art
       - name: Portfolio d'artiste 
         image: '/images/portfolio/portfolio.svg'
         link: https://mattheprinter.github.io/

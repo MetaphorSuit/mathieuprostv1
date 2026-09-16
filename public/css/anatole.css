@@ -787,10 +787,10 @@ body {
 }
 @media screen and (min-width: 961px) {
   .theme--light .portfolio::before {
-    border: 1px solid #F2EDE3;
+    /*        border: color.t('border');*/
   }
   .theme--dark .portfolio::before {
-    border: 1px solid #403d3a;
+    /*        border: color.t('border');*/
   }
 }
 .portfolio__title {
@@ -800,8 +800,8 @@ body {
   font-weight: 600;
 }
 .portfolio__image {
-  max-width: 180%;
-  min-width: 100%;
+  max-width: 100%;
+  min-width: 60%;
   overflow: hidden;
   object-fit: center;
   border-bottom: 0px;
@@ -835,10 +835,10 @@ body {
 }
 @media screen and (min-width: 961px) {
   .portfolio__image-wrapper--right, .portfolio__image-wrapper--left {
-    width: 80%;
+    width: 160%;
     object-fit: contain;
     max-width: none;
-    border-radius: 0.5em;
+    /*          border-radius: 0.2em;*/
     padding: 0;
   }
 }
@@ -859,10 +859,10 @@ body {
   position: relative;
 }
 .theme--light .portfolio__description {
-  background-color: #F8F5F0;
+  /*      background-color: color.t('accent');*/
 }
 .theme--dark .portfolio__description {
-  background-color: #22201b;
+  /*      background-color: color.t('accent');*/
 }
 @media screen and (min-width: 961px) {
   .portfolio__description {
@@ -870,28 +870,22 @@ body {
     border-radius: 0.5em;
   }
   .theme--light .portfolio__description {
-    box-shadow: 0 0 16px rgba(10, 10, 10, 0.1);
+    /*        box-shadow: color.t('shadow');*/
   }
   .theme--dark .portfolio__description {
-    box-shadow: 0 0 16px rgba(226, 226, 226, 0.1);
+    /*        box-shadow: color.t('shadow');*/
   }
 }
 .portfolio__description--left, .portfolio__description--right {
-  margin-top: -24px;
+  /* margin-top: -24px;*/
 }
 .theme--light .portfolio__description--left, .theme--light .portfolio__description--right {
-  border-bottom: 1px solid #F2EDE3;
+  /*        border-bottom: color.t('border');*/
 }
 .theme--dark .portfolio__description--left, .theme--dark .portfolio__description--right {
-  border-bottom: 1px solid #403d3a;
+  /*        border-bottom: color.t('border');*/
 }
 @media screen and (min-width: 961px) {
-  .theme--light .portfolio__description--left, .theme--light .portfolio__description--right {
-    background: #F2EDE3;
-  }
-  .theme--dark .portfolio__description--left, .theme--dark .portfolio__description--right {
-    background: #403d3a;
-  }
   .portfolio__description--left, .portfolio__description--right {
     border-bottom: 0px;
     width: 60%;
