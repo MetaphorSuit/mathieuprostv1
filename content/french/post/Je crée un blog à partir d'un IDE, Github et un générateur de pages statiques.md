@@ -1,8 +1,10 @@
 ---
 Type: Cursus
 Date: 2026-10-01
+Type: article
+
 ---
-# Cafféiné, ACDC, on s'croise, c'est sûr, tu es tétanisé
+# Construire un blog en big 2026
 
 L'idée derrière ce projet était de créer un blog à l'ancienne, je suis un daron, j'ai connu l'époque des skyblogs, et même si c'était une période cringe, le règne des Dark Sasuke, c'était aussi un moment de la tech où le web 2.0 n'était pas aussi centralisé, et mesuré. La plupart des interactions sont aujourd'hui rassemblées sur quelques applications phares - tiktok, instagram etc. Et cela n'a pas toujours été le cas 
 
