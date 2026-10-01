@@ -15,6 +15,7 @@ concurrency:
 env:
   SSH_PORT: 22
   DEPLOY_PATH: /docker/portfolio/site
+  DOCKER_PROJECT_PATH: /docker/portfolio
 
 jobs:
   deploy:
@@ -53,9 +54,14 @@ jobs:
             -e "ssh -i ~/.ssh/deploy_key -p $SSH_PORT" \
             public/ "$SERVER_USER@$SERVER_HOST:$DEPLOY_PATH/"
 
+      - name: Remount docker project on server
+        env:
+          SERVER_HOST: ${{ secrets.SERVER_HOST }}
+          SERVER_USER: ${{ secrets.SERVER_USER }}
+        run: |
+          ssh -i ~/.ssh/deploy_key -p "$SSH_PORT" "$SERVER_USER@$SERVER_HOST" \
+            "cd '$DOCKER_PROJECT_PATH' && docker compose up -d --force-recreate"
+
       - name: Cleanup SSH key
         if: always()
         run: rm -f ~/.ssh/deploy_key
-
-      - name: Remount the docker project
-        run: docker compose up -d --force-recreate
