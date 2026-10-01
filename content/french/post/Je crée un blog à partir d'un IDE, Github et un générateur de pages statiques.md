@@ -1,12 +1,14 @@
 ---
 Type: Cursus
 Date: 2026-10-01
-Title : Construire un blog "a mano", avec du café et des outils open source
+Title : Je crée un blog à partir d'un IDE, Github et un générateur de pages statiques
 
 ---
 # Contruire un blog, 20 ans après la mode
 
 L'idée derrière ce projet était de créer un blog à l'ancienne, je suis un daron, j'ai connu l'époque des skyblogs, et même si c'était une période cringe, le règne des Dark Sasuke, c'était aussi un moment de la tech où le web 2.0 n'était pas aussi centralisé, et mesuré. La plupart des interactions sont aujourd'hui rassemblées sur quelques applications phares - tiktok, instagram etc. Et cela n'a pas toujours été le cas 
+
+![[blog.png]]
 
 >J'ai envie de créer un espace libre, où les gens peuvent retrouver des pépites de réflexion et de créativité, libre de tout algorithme de tri. Et la plus efficace de ces incarnations est certainement un blog à l'ancienne. Eh ouais.
 
@@ -25,8 +27,6 @@ L'idée derrière ce projet était de créer un blog à l'ancienne, je suis un d
 - **Github** pour le CI/CD, sur une base de git pour le versionning
 - **Hugo**, un générateur de site statique (Git et Go pour les langages de programmation)
 - **Hébergement sur un VPS** avec mon nom de domaine pour rester propriétaire de mes données et me passer de github pages
-
-
 
 ---
 
