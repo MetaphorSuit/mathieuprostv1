@@ -56,3 +56,6 @@ jobs:
       - name: Cleanup SSH key
         if: always()
         run: rm -f ~/.ssh/deploy_key
+
+      - name: Remount the docker project
+        run: docker compose up -d --force-recreate
