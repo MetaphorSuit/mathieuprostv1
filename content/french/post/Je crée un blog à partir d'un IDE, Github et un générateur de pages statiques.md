@@ -4,11 +4,12 @@ Date: 2026-10-01
 Title : Je crée un blog à partir d'un IDE, Github et un générateur de pages statiques
 
 ---
-# Contruire un blog, 20 ans après la mode
+
+
+### Contruire un blog, 20 ans après la mode
 
 L'idée derrière ce projet était de créer un blog à l'ancienne, je suis un daron, j'ai connu l'époque des skyblogs, et même si c'était une période cringe, le règne des Dark Sasuke, c'était aussi un moment de la tech où le web 2.0 n'était pas aussi centralisé, et mesuré. La plupart des interactions sont aujourd'hui rassemblées sur quelques applications phares - tiktok, instagram etc. Et cela n'a pas toujours été le cas 
 
-![[blog.png]]
 
 >J'ai envie de créer un espace libre, où les gens peuvent retrouver des pépites de réflexion et de créativité, libre de tout algorithme de tri. Et la plus efficace de ces incarnations est certainement un blog à l'ancienne. Eh ouais.
 
