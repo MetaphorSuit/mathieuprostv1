@@ -3,7 +3,6 @@ author: Mathieu Prost
 title: Thank You
 date: 2026-09-14
 description: Thank you for your message
-layout: thankyou
 ---
 
 # Thank you for your message!

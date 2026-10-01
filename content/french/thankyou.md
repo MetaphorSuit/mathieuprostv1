@@ -3,7 +3,6 @@ author: Mat
 title: Merci
 date: 2026-09-14
 description: Merci pour ton message
-layout: thankyou
 ---
 
 # Merci pour ton message !
