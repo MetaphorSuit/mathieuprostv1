@@ -11,7 +11,7 @@ Tu as une question, une proposition ou simplement envie de dire bonjour ? N'hés
 
 ## Moyens de contact
 
-- 💼 LinkedIn : [Votre profil](https://linkedin.com/in/mathieu-prost)
-- 🐙 GitHub : [Votre profil](https://github.com/mathieuprost)
+- 💼 LinkedIn : [Mathieu Prost](https://linkedin.com/in/mathieu-prost)
+- 🐙 GitHub : [MetaphorSuit](https://github.com/mathieuprost)
 
 Je réponds généralement dans les 24-48 heures.

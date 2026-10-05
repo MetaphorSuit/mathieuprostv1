@@ -1,25 +1,16 @@
 +++
-author = "Hugo Authors"
+author = "Mat"
 +++
 
-<!--
-This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
+# Welcome to my website
 
-Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
-This can be:
-- with the list of posts/articles (default: `mainSections = ["post"]) or
-- without the list of posts/articles (by setting `mainSections = [""]`)
+My name is Mathieu but call me **Mat**
 
-Markdown supported, ie:
+I am passionate about knowledge, in various forms. Here you will find my **web development** and **graphic design** projects, as well as **articles written the old-fashioned way**, by a real human.
 
-```
-# Welcome
+- Articles on topics that interest me :rocket:
+- Reports on my web projects :rocket:
+- A link to my graphic pages :art:
 
-- Hugo :rocket:
-- Hugo theme :rocket:
-
-Don't forget to check the README.md file!
-```
-
-Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
--->
+Don't hesitate to explore my site, take the resources that interest you, and go explore each project in detail
+I fundamentally believe that knowledge is a commons that deserves to be shared. If an idea pleases you, don't hesitate to cite me, dig into it, and mention it elsewhere! 

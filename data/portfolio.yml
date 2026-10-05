@@ -35,20 +35,3 @@ portfolioitems:
         description: "Un portfolio en ligne pour présenter mes œuvres artistiques et mes projets créatifs"
         tags:
           - Art
-  # Catégorie portfolio
-  - title: Recherche
-    description: 'Tous mes projets de recherche'
-    portfolioitem:
-      - name: Étude sur les traités d'armes du XVè siècle
-        image: '/images/portfolio/code.jpg'
-        description: "Recherche UX dans les applications web modernes."
-        tags:
-          - UX
-          - Recherche
-      - name: Article technique
-        image: '/images/portfolio/code.jpg'
-        link: https://example.com
-        description: 'Publication sur les meilleures pratiques en développement web.'
-        tags:
-          - Publication
-          - Web
