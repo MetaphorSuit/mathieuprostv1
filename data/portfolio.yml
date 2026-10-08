@@ -10,7 +10,7 @@ portfolioitems:
         description: "Une plateforme LMS conçue pour mes étudiants et les entreprises que j'accompagne, offrant des outils de gestion de cours, de suivi des étudiants et d'analyse des performances."
         tags:
           - LMS
-          - learning
+          - Learning
         status: 'Terminé'
         start: 'fev 2026'
         end: 'avr 2026'
@@ -28,6 +28,8 @@ portfolioitems:
         description: "Projet graphique print de création d'une gamme de bières artisanales"
         tags:
           - Art
+          - Craft beer
+          - 
       - name: Portfolio d'artiste 
         image: '/images/portfolio/portfolio.svg'
         link: https://mattheprinter.github.io/
@@ -35,3 +37,4 @@ portfolioitems:
         description: "Un portfolio en ligne pour présenter mes œuvres artistiques et mes projets créatifs"
         tags:
           - Art
+          - Indie 

@@ -20,22 +20,22 @@
   name = "Manifesto"
   weight = 400
   identifier = "about"
-  url = "en/manifesto/"
+  url = "/en/manifesto/"
 
  [[main]]
   name = "Contact"
   weight = 600
   identifier = "contact"
-  url = "en/contact/"
+  url = "/en/contact/"
 
   [[footer]]
   name = "imprint"
   weight = 2
   identifier = "imprint"
-  url = "en/imprint/"
+  url = "/en/imprint/"
 
   [[footer]]
   name = "Contact"
   weight = 1
   identifier = "contact"
-  url = "en/contact/"
+  url = "/en/contact/"
